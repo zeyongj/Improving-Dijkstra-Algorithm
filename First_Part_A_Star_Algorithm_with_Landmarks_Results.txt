@@ -1,0 +1,200 @@
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.950
+End node = No.412
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 1001.376902 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 7.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.424
+End node = No.699
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 7277.219593 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 405.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.138
+End node = No.535
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 6400.337422 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 462.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.370
+End node = No.319
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 2196.74753 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 45.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.640
+End node = No.613
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 2820.585213 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 103.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.594
+End node = No.340
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 4060.648605 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 168.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.933
+End node = No.981
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 6050.379455 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 88.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.75
+End node = No.418
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 1232.243621 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 28.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.786
+End node = No.531
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 2681.77819 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 75.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.45
+End node = No.214
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 2915.979787 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 61.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.51
+End node = No.534
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 1307.422605 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 32.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.236
+End node = No.690
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 777.4943649 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 9.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.983
+End node = No.126
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 8440.642858 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 486.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.836
+End node = No.562
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 6047.462739 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 291.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.130
+End node = No.285
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 6034.150157 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 166.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.868
+End node = No.305
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 1911.236432 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 65.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.747
+End node = No.304
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 6678.788619 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 336.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.935
+End node = No.454
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 2986.84258 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 186.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.601
+End node = No.933
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 8496.626595 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 622.
+---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+A* with Landmarks Algorithm is in Process:
+Starting node = No.385
+End node = No.109
+
+A* with Landmarks Algorithm's Results: 
+The shortest distance using A* with landmarks Algorithm is 1715.042405 meters.
+The number of verticies that A* with landmarks Algorithm has visited is 16.
+---------------------------------------------------------------------------------------
+

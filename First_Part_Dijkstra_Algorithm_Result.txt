@@ -1,0 +1,200 @@
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.950
+End node = No.412
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 1001.376902 meters.
+The number of verticies that Dijkstra Algorithm has visited is 27.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.424
+End node = No.699
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 7277.219593 meters.
+The number of verticies that Dijkstra Algorithm has visited is 819.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.138
+End node = No.535
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 6400.337422 meters.
+The number of verticies that Dijkstra Algorithm has visited is 813.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.370
+End node = No.319
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 2196.74753 meters.
+The number of verticies that Dijkstra Algorithm has visited is 221.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.640
+End node = No.613
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 2820.585213 meters.
+The number of verticies that Dijkstra Algorithm has visited is 275.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.594
+End node = No.340
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 4060.648605 meters.
+The number of verticies that Dijkstra Algorithm has visited is 320.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.933
+End node = No.981
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 6050.379455 meters.
+The number of verticies that Dijkstra Algorithm has visited is 456.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.75
+End node = No.418
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 1232.243621 meters.
+The number of verticies that Dijkstra Algorithm has visited is 113.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.786
+End node = No.531
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 2681.77819 meters.
+The number of verticies that Dijkstra Algorithm has visited is 271.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.45
+End node = No.214
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 2915.979787 meters.
+The number of verticies that Dijkstra Algorithm has visited is 83.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.51
+End node = No.534
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 1307.422605 meters.
+The number of verticies that Dijkstra Algorithm has visited is 115.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.236
+End node = No.690
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 777.4943649 meters.
+The number of verticies that Dijkstra Algorithm has visited is 35.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.983
+End node = No.126
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 8440.642858 meters.
+The number of verticies that Dijkstra Algorithm has visited is 947.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.836
+End node = No.562
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 6047.462739 meters.
+The number of verticies that Dijkstra Algorithm has visited is 768.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.130
+End node = No.285
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 6034.150157 meters.
+The number of verticies that Dijkstra Algorithm has visited is 656.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.868
+End node = No.305
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 1911.236432 meters.
+The number of verticies that Dijkstra Algorithm has visited is 213.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.747
+End node = No.304
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 6678.788619 meters.
+The number of verticies that Dijkstra Algorithm has visited is 767.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.935
+End node = No.454
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 2986.84258 meters.
+The number of verticies that Dijkstra Algorithm has visited is 469.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.601
+End node = No.933
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 8496.626595 meters.
+The number of verticies that Dijkstra Algorithm has visited is 754.
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Dijkstra Algorithm is in Process:
+Starting node = No.385
+End node = No.109
+
+Dijkstra Algorithm's Results: 
+The shortest distance using Dijkstra Algorithm is 1715.042405 meters.
+The number of verticies that Dijkstra Algorithm has visited is 143.
+--------------------------------------------------------------------------------------------------------
+

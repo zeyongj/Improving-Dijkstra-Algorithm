@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------------------------------
+Saving on nodes
+Given:
+Dijkstra discovered an average of 413.25 nodes.
+A* discovered an average of 144.45 nodes.
+A* with landmarks discovered an average of 182.55 nodes.
+
+We can determine that: 
+When using A* algorithm instead of Dijkstra Algorithm, saving on nodes is 268.8 nodes.
+When using A* with landmark algorithm instead of Dijkstra Algorithm, saving on nodes is 230.7 nodes.
+
+--------------------------------------------------------------------------------------------------------
+Saving on distances
+Given:
+Dijkstra discovered an average of 4051.65 meters.
+A* discovered an average of 4051.65 meters.
+A* with landmarks discovered an average of 4051.65 meters.
+
+We can determine that: 
+When using A* algorithm instead of Dijkstra Algorithm, saving on nodes is 0 meters.
+When using A* with landmark algorithm instead of Dijkstra Algorithm, saving on nodes is 0 meters.
+
+--------------------------------------------------------------------------------------------------------
+We can come to a conclusion that all these algorithms does not change the distance of shortest path, but the total number of vistied nodes.
+--------------------------------------------------------------------------------------------------------
+THIS IS THE END OF THE PROJECT OF CMPT 307-D100: DATA STRUCTURES AND ALGORITHMS.
