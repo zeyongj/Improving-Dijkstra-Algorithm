@@ -17,6 +17,12 @@ During the coding work of this project, I got inspired by the website: https://g
 
 This is the end of the introduction of the project.
 
+## License
+
+This work is licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) (or any later version). 
+
+`SPDX-License-Identifier: Apache-2.0-or-later`
+
 ## Disclaimer
 
 This repository is ONLY for backup. Students should NEVER use this repository to finish their works, IN ANY WAY.
